@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Tic-tac-toe">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tic_tac_toe</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="tictactoe.Main" />
+        <option name="description" value="" />
+        <option name="height" value="300" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="Tic-tac-toe" />
+        <option name="vendor" value="alexej520" />
+        <option name="width" value="300" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Tic_tac_toe.jar">
+        <element id="module-output" name="Tic-tac-toe" />
+      </element>
+    </root>
+  </artifact>
+</component>

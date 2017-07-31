@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Tic_tac_toe.jnlp">
+  <information>
+    <title>Tic-tac-toe</title>
+    <vendor>alexej520</vendor>
+    <description>Tic-tac-toe</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Tic_tac_toe.jar" size="13993" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="300" height="300" main-class="tictactoe.Main"  name="Tic-tac-toe" />
+  <update check="background"/>
+</jnlp>
